@@ -24,9 +24,6 @@ target/
 .env
 *.env
 
-# Optional: database backups (recommended to ignore)
-backup db/
-
 # Optional: temp files
 *.tmp
 *.swp
